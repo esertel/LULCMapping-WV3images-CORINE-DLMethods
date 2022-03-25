@@ -3,6 +3,7 @@ This repository contains the code for the paper [Land Use and Land Cover Mapping
 
 Framework
 ---------------------
+The framework of this study is detailed as follow. 
 
 ![alt text](flowchart_lulc.png)
 
