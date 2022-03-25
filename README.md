@@ -13,9 +13,11 @@ Outputs
 ![alt text](outputs_1.png)
 ![alt text](outputs_2.png)
 
-Dataset
+Dataset and Weights
 ---------------------
 Dataset used in this study made publicly available [here]([PLACEHOLDER])
+
+Weights can be found [here](https://drive.google.com/drive/folders/1Hpmsn9eVq1yvbmFh5oNWUmBZvFG6jDox?usp=sharing).
 
 System-specific notes
 ---------------------
