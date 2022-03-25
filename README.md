@@ -16,6 +16,10 @@ Dataset
 ---------------------
 Dataset used in this study made publicly available at: [PLACEHOLDER]
 
+System-specific notes
+---------------------
+The code was implemented in Python(3.8) and PyTroch(1.14.0) on Windows OS. The *segmentation models pytorch* library is used as a baseline for implementation. Apart from main data science libraries, RS-specific libraries such as GDAL, rasterio, and tifffile are also required.
+
 
 Citation
 ---------------------
